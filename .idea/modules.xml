@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/common-kafka.iml" filepath="$PROJECT_DIR$/common-kafka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ecommerce.iml" filepath="$PROJECT_DIR$/ecommerce.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-email.iml" filepath="$PROJECT_DIR$/service-email.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-fraud-detector.iml" filepath="$PROJECT_DIR$/service-fraud-detector.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-log.iml" filepath="$PROJECT_DIR$/service-log.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-new-order.iml" filepath="$PROJECT_DIR$/service-new-order.iml" />
+    </modules>
+  </component>
+</project>
